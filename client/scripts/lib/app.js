@@ -13,7 +13,7 @@ import { Meteor } from 'meteor/meteor';
 // Modules
 import RoutesConfig from '../routes';
 import ChatsCtrl from '../controllers/chats.controller';
-const App = 'billmanager';
+const App = 'BillManager';
 
 // App
 Angular.module(App, [
